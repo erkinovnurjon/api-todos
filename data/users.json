@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name" : "Nurjon",
+        "surname" : "Erkinov",
+        "isstudent" : false
+    },
+    {
+        "id":2,
+        "name" : "Madina",
+        "surname" : "Mahmutaliyeva",
+        "isstudent" : true
+    },
+    {
+        "id": 3,
+        "name" : "Olimxon",
+        "surname" : "Usmonjonov",
+        "isstudent" : false
+    },
+    {
+        "id": 4,
+        "name" : "Aziza",
+        "surname" : "Mahamatova",
+        "isstudent" : true
+    }
+]
